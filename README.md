@@ -9,9 +9,12 @@
 
 - 👨‍💻 All of my projects are available at [https://ankitmaurya-dev.vercel.app/home](https://ankitmaurya-dev.vercel.app/home)
 
+- 📫 How to reach me **technicalgamer0420@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dev-ankitmaurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev-ankitmaurya" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/29343322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="29343322" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
